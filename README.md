@@ -1,1 +1,2 @@
 # FlumAnime
+Have fun
