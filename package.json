@@ -1,0 +1,23 @@
+{
+  "name": "flumanime-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^1.5.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "express-glitch-keepalive": "^0.2.0",
+    "opusscript": "^0.0.7",
+    "quick.db": "^6.3.2",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.0",
+    "dblapi.js": "^2.3.0"
+  }
+}
